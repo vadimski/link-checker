@@ -1,7 +1,6 @@
-# link-checker
 This program performs CURL on a list of urls provided in a file
 
-# Usage
+Usage:
 	./checker.sh -f /path/to/file
 
 Accepted flags:
@@ -11,4 +10,4 @@ Accepted flags:
 Accepted parameters:
 
     -f path to file                 - Absolute path to file containing the URLs.
-    -v verbose                      - Verbose mode.        
+    -v verbose                      - Verbose mode.
